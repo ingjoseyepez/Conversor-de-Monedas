@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b945bcdc-f5c0-4bb7-ba68-906a79fd5a01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/challegen/converso/modelos/Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/challegen/converso/principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challegen/converso/principal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/challegen/converso/service/ConexionApis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challegen/converso/service/ConexionApis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

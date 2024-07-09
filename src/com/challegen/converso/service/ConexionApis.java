@@ -24,7 +24,7 @@ public class ConexionApis {
 
             JsonElement jsonElement = JsonParser.parseString(response.body());
             JsonObject jsonObject = jsonElement.getAsJsonObject();
-            
+
             return jsonObject.get("conversion_result").getAsString();
 
         } catch (IOException | InterruptedException e) {
